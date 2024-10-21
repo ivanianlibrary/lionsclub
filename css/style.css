@@ -1,0 +1,58 @@
+.bg-blue{
+    background-color: #000f5a;
+}
+button a{
+    text-decoration: none;
+}
+button{
+    background-color: black;
+}
+.lions{
+    font-weight: bold
+}
+.custom-font-h3{
+    font-size: 40px;
+    font-weight: bold
+}
+
+.about-section p{
+    font-size: 16px;
+    line-height: 28px;
+}
+.about-section h3{
+    font-size: 40px;
+}
+.home-slider h2{
+    font-size:48px;
+    line-height: normal;
+}
+.pt-5 {
+    padding-top: 8rem !important;
+}
+.service-box h4{
+    font-size: 24px;
+    font-weight: bold;
+}
+.contact-section{
+    background-image: url(../images/footer_bk.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.contact-box .form-control{
+    height: 50px;
+}
+.contact-box textarea.form-control{
+    height:150px;
+}   
+.address-box{
+    font-size: 16px;
+    line-height: 28px;
+}
+.foot{
+    background-color: #271001;
+}
+@media(max-width:767px){
+    .header-section .navbar-brand img {
+        width: 200px;
+    }
+}
